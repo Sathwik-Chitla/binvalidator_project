@@ -1,0 +1,6152 @@
+[
+  [
+    "00011",
+    "B01ATYIK7G",
+    {
+      "height": 4.0,
+      "length": 4.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00018",
+    "B00YHF3W90",
+    {
+      "height": 0.1968503935,
+      "length": 3.93700787,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "00023",
+    "B0163KOK42",
+    {
+      "height": 2.0,
+      "length": 13.0,
+      "width": 13.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00043",
+    "B00OZO3XLK",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "00045",
+    "B019775SYE",
+    {
+      "height": 1.0,
+      "length": 9.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00046",
+    "B019775SYE",
+    {
+      "height": 1.0,
+      "length": 9.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00056",
+    "B01AQGMRI0",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "00057",
+    "B01AQGMRI0",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "00062",
+    "B01D2NII6Y",
+    {
+      "height": 0.9055118101,
+      "length": 8.4645669205,
+      "width": 4.1338582635,
+      "weight": NaN
+    }
+  ],
+  [
+    "00103",
+    "B015FQ8456",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00104",
+    "B015FQ8456",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00105",
+    "B01AGMJGA6",
+    {
+      "height": 4.0,
+      "length": 12.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00106",
+    "B01AGMJGA6",
+    {
+      "height": 4.0,
+      "length": 12.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00137",
+    "B01GPJA8PG",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "00141",
+    "B0197O304W",
+    {
+      "height": 0.05,
+      "length": 11.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00142",
+    "B0197O304W",
+    {
+      "height": 0.05,
+      "length": 11.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00158",
+    "B01DYYCX6M",
+    {
+      "height": 1.97,
+      "length": 7.48,
+      "width": 5.12,
+      "weight": NaN
+    }
+  ],
+  [
+    "00159",
+    "B01C6MG0CQ",
+    {
+      "height": 2.0,
+      "length": 12.0,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00160",
+    "B01C6MG0CQ",
+    {
+      "height": 2.0,
+      "length": 12.0,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00240",
+    "B01EHN6G6M",
+    {
+      "height": 0.98,
+      "length": 10.24,
+      "width": 7.48,
+      "weight": NaN
+    }
+  ],
+  [
+    "00241",
+    "B01EHN6G6M",
+    {
+      "height": 0.98,
+      "length": 10.24,
+      "width": 7.48,
+      "weight": NaN
+    }
+  ],
+  [
+    "00255",
+    "B00W4QF67A",
+    {
+      "height": 0.5905511805,
+      "length": 7.086614166,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "00256",
+    "B00W4QF67A",
+    {
+      "height": 0.5905511805,
+      "length": 7.086614166,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "00258",
+    "B01CZBSVK2",
+    {
+      "height": 0.1,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00259",
+    "B01CZBSVK2",
+    {
+      "height": 0.1,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00263",
+    "B01EBJZCB2",
+    {
+      "height": 1.5,
+      "length": 10.0,
+      "width": 2.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "00293",
+    "B01BQTJ2U2",
+    {
+      "height": 1.0,
+      "length": 4.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00294",
+    "B01BQTJ2U2",
+    {
+      "height": 1.0,
+      "length": 4.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00313",
+    "B00I56IZGC",
+    {
+      "height": 1.25,
+      "length": 8.0,
+      "width": 1.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "00318",
+    "B01G9YU3MA",
+    {
+      "height": 2.362204722,
+      "length": 15.354330693,
+      "width": 11.023622036,
+      "weight": NaN
+    }
+  ],
+  [
+    "00384",
+    "B00ORF2FEI",
+    {
+      "height": 1.3779527545,
+      "length": 9.055118101,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "00385",
+    "B00ORF2FEI",
+    {
+      "height": 1.3779527545,
+      "length": 9.055118101,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "00395",
+    "B01DUJ4VZW",
+    {
+      "height": 0.5,
+      "length": 5.9,
+      "width": 3.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "00396",
+    "B01DUJ4VZW",
+    {
+      "height": 0.5,
+      "length": 5.9,
+      "width": 3.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "00420",
+    "B01E62WRAS",
+    {
+      "height": 0.23,
+      "length": 11.0,
+      "width": 1.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "00425",
+    "B015PB5F0S",
+    {
+      "height": 2.5,
+      "length": 10.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00426",
+    "B015PB5F0S",
+    {
+      "height": 2.5,
+      "length": 10.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00460",
+    "B01HDYZ6HW",
+    {
+      "height": 3.0,
+      "length": 7.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00461",
+    "B01HDYZ6HW",
+    {
+      "height": 3.0,
+      "length": 7.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00500",
+    "B01EUTMZ5E",
+    {
+      "height": 3.9,
+      "length": 5.7,
+      "width": 3.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "00501",
+    "B01EUTMZ5E",
+    {
+      "height": 3.9,
+      "length": 5.7,
+      "width": 3.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "00515",
+    "B01H1RW5X4",
+    {
+      "height": 1.181102361,
+      "length": 3.149606296,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "00581",
+    "B015HDR2DM",
+    {
+      "height": 0.787401574,
+      "length": 5.511811018,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "00680",
+    "B0044ZSMOI",
+    {
+      "height": 4.0,
+      "length": 7.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00681",
+    "B0044ZSMOI",
+    {
+      "height": 4.0,
+      "length": 7.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00690",
+    "B01CAT2I30",
+    {
+      "height": 0.5,
+      "length": 3.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00754",
+    "B01GSR5AOE",
+    {
+      "height": 3.25,
+      "length": 12.5,
+      "width": 5.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "00755",
+    "B01GSR5AOE",
+    {
+      "height": 3.25,
+      "length": 12.5,
+      "width": 5.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "00777",
+    "B01GKMICM4",
+    {
+      "height": 2.5,
+      "length": 11.875,
+      "width": 5.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "00799",
+    "B017NI2TPU",
+    {
+      "height": 1.181102361,
+      "length": 3.543307083,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "00800",
+    "B017NI2TPU",
+    {
+      "height": 1.181102361,
+      "length": 3.543307083,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "00811",
+    "B016T9L46O",
+    {
+      "height": 0.787401574,
+      "length": 10.629921249,
+      "width": 8.661417314,
+      "weight": NaN
+    }
+  ],
+  [
+    "00880",
+    "B019DWH2YW",
+    {
+      "height": 0.03937,
+      "length": 7.874,
+      "width": 5.9055,
+      "weight": NaN
+    }
+  ],
+  [
+    "00881",
+    "B019DWH2YW",
+    {
+      "height": 0.03937,
+      "length": 7.874,
+      "width": 5.9055,
+      "weight": NaN
+    }
+  ],
+  [
+    "00885",
+    "B00V5MFJXK",
+    {
+      "height": 1.0,
+      "length": 4.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "00914",
+    "B01DXVJXKU",
+    {
+      "height": 1.7716535415,
+      "length": 4.724409444,
+      "width": 3.149606296,
+      "weight": NaN
+    }
+  ],
+  [
+    "00915",
+    "B01DXVJXKU",
+    {
+      "height": 1.7716535415,
+      "length": 4.724409444,
+      "width": 3.149606296,
+      "weight": NaN
+    }
+  ],
+  [
+    "00958",
+    "B019I9Y5TK",
+    {
+      "height": 4.33,
+      "length": 5.91,
+      "width": 5.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "00981",
+    "B00OCCHJV0",
+    {
+      "height": 3.9,
+      "length": 5.9,
+      "width": 5.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "00982",
+    "B00OCCHJV0",
+    {
+      "height": 3.9,
+      "length": 5.9,
+      "width": 5.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "01044",
+    "B01F4DFQ74",
+    {
+      "height": 8.0,
+      "length": 8.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01058",
+    "B014VAUXZG",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": 1.0
+    }
+  ],
+  [
+    "01059",
+    "B008SKFLIA",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "01059",
+    "B014VAUXZG",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": 1.0
+    }
+  ],
+  [
+    "01059",
+    "B01F1K0MWY",
+    {
+      "height": 5.511811018,
+      "length": 10.629921249,
+      "width": 6.299212592,
+      "weight": NaN
+    }
+  ],
+  [
+    "01109",
+    "B019D199SK",
+    {
+      "height": 2.0,
+      "length": 10.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01110",
+    "B01FD2E442",
+    {
+      "height": 1.77,
+      "length": 5.12,
+      "width": 3.94,
+      "weight": NaN
+    }
+  ],
+  [
+    "01115",
+    "B01DFT2I2A",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01116",
+    "B01DFT2I2A",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01172",
+    "B01FIFGKNW",
+    {
+      "height": 3.0,
+      "length": 9.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01173",
+    "B01FIFGKNW",
+    {
+      "height": 3.0,
+      "length": 9.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01192",
+    "B01A50LX64",
+    {
+      "height": 4.0,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01198",
+    "B017U0D270",
+    {
+      "height": 0.0393700787,
+      "length": 3.149606296,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "01199",
+    "B017U0D270",
+    {
+      "height": 0.0393700787,
+      "length": 3.149606296,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "01218",
+    "B00LOCO2XO",
+    {
+      "height": 4.0,
+      "length": 10.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01219",
+    "B00LOCO2XO",
+    {
+      "height": 4.0,
+      "length": 10.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01286",
+    "B01EALNQ9Q",
+    {
+      "height": 0.4,
+      "length": 4.5,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "01286",
+    "B01GQO56M0",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "01287",
+    "B01D6OXV0M",
+    {
+      "height": 2.5,
+      "length": 9.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01288",
+    "B01D6OXV0M",
+    {
+      "height": 2.5,
+      "length": 9.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01309",
+    "B01GWR1TFO",
+    {
+      "height": 1.0,
+      "length": 4.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01395",
+    "B00ZE6ZZQO",
+    {
+      "height": 5.0,
+      "length": 14.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01399",
+    "B00TUAFKYC",
+    {
+      "height": 6.0,
+      "length": 12.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01400",
+    "B00TUAFKYC",
+    {
+      "height": 6.0,
+      "length": 12.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01409",
+    "B01DIXJA92",
+    {
+      "height": 1.97,
+      "length": 1.97,
+      "width": 1.97,
+      "weight": NaN
+    }
+  ],
+  [
+    "01410",
+    "B01DIXJA92",
+    {
+      "height": 1.97,
+      "length": 1.97,
+      "width": 1.97,
+      "weight": NaN
+    }
+  ],
+  [
+    "01412",
+    "B00UPZTI94",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01413",
+    "B00UPZTI94",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01462",
+    "B017VGAUK0",
+    {
+      "height": 4.0,
+      "length": 8.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01470",
+    "B00ARF5LWU",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01471",
+    "B00ARF5LWU",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01487",
+    "B01BJM6SBM",
+    {
+      "height": 5.0,
+      "length": 7.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01488",
+    "B01BJM6SBM",
+    {
+      "height": 5.0,
+      "length": 7.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01516",
+    "B01A9DXFZ4",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01589",
+    "B00KCF23DA",
+    {
+      "height": 1.968503935,
+      "length": 14.960629906,
+      "width": 10.629921249,
+      "weight": NaN
+    }
+  ],
+  [
+    "01590",
+    "B00KCF23DA",
+    {
+      "height": 1.968503935,
+      "length": 14.960629906,
+      "width": 10.629921249,
+      "weight": NaN
+    }
+  ],
+  [
+    "01601",
+    "B01G4B7ZHO",
+    {
+      "height": 2.0,
+      "length": 7.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01635",
+    "B015VRRCFW",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01636",
+    "B015VRRCFW",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01646",
+    "B01HCLKREI",
+    {
+      "height": 2.0,
+      "length": 4.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01648",
+    "B01D8ICCNS",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01722",
+    "B01B11DESQ",
+    {
+      "height": 0.5,
+      "length": 9.5,
+      "width": 2.75,
+      "weight": NaN
+    }
+  ],
+  [
+    "01723",
+    "B01B11DESQ",
+    {
+      "height": 0.5,
+      "length": 9.5,
+      "width": 2.75,
+      "weight": NaN
+    }
+  ],
+  [
+    "01727",
+    "B01GWRRR1O",
+    {
+      "height": 3.5,
+      "length": 8.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01737",
+    "B0106A5U6C",
+    {
+      "height": 1.181102361,
+      "length": 5.905511805,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "01798",
+    "B01GRKINJ6",
+    {
+      "height": 0.5905511805,
+      "length": 6.692913379,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "01816",
+    "B01FHXTSZ2",
+    {
+      "height": 0.9842519675,
+      "length": 3.4645669256,
+      "width": 0.9842519675,
+      "weight": NaN
+    }
+  ],
+  [
+    "01817",
+    "B01FHXTSZ2",
+    {
+      "height": 0.9842519675,
+      "length": 3.4645669256,
+      "width": 0.9842519675,
+      "weight": NaN
+    }
+  ],
+  [
+    "01863",
+    "B01A6FXMZI",
+    {
+      "height": 0.97,
+      "length": 10.14,
+      "width": 7.92,
+      "weight": NaN
+    }
+  ],
+  [
+    "01864",
+    "B01A6FXMZI",
+    {
+      "height": 0.97,
+      "length": 10.14,
+      "width": 7.92,
+      "weight": NaN
+    }
+  ],
+  [
+    "01868",
+    "B01HFA9IDW",
+    {
+      "height": 2.0,
+      "length": 3.5,
+      "width": 2.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "01887",
+    "B01BX378AC",
+    {
+      "height": 3.0,
+      "length": 13.0,
+      "width": 13.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01914",
+    "B00NHZW1FM",
+    {
+      "height": 2.0,
+      "length": 11.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01915",
+    "B00NHZW1FM",
+    {
+      "height": 2.0,
+      "length": 11.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "01952",
+    "B01DXIDSHM",
+    {
+      "height": 0.3,
+      "length": 6.0,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "01953",
+    "B01DXIDSHM",
+    {
+      "height": 0.3,
+      "length": 6.0,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "01999",
+    "B01B6YAZO4",
+    {
+      "height": 5.0,
+      "length": 8.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02062",
+    "B01B6DE8Y8",
+    {
+      "height": 6.0,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02063",
+    "B01B6DE8Y8",
+    {
+      "height": 6.0,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02064",
+    "B01B6DE8Y8",
+    {
+      "height": 6.0,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02090",
+    "B0161L1LLS",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "02091",
+    "B0161L1LLS",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "02108",
+    "B01DSKQWBY",
+    {
+      "height": 0.2,
+      "length": 5.9,
+      "width": 3.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "02109",
+    "B01DSKQWBY",
+    {
+      "height": 0.2,
+      "length": 5.9,
+      "width": 3.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "02143",
+    "B00Q3GOIKI",
+    {
+      "height": 2.0,
+      "length": 3.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02143",
+    "B01BXOU61Y",
+    {
+      "height": 1.0629921249,
+      "length": 5.7086614115,
+      "width": 1.0629921249,
+      "weight": NaN
+    }
+  ],
+  [
+    "02206",
+    "B019N91NSQ",
+    {
+      "height": 2.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02206",
+    "B01DPU4YDU",
+    {
+      "height": 2.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02207",
+    "B019N91NSQ",
+    {
+      "height": 2.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02207",
+    "B01DPU4YDU",
+    {
+      "height": 2.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02231",
+    "B008UFI4CS",
+    {
+      "height": 1.5,
+      "length": 6.5,
+      "width": 4.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "02232",
+    "B008UFI4CS",
+    {
+      "height": 1.5,
+      "length": 6.5,
+      "width": 4.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "02245",
+    "B006TZFJ8I",
+    {
+      "height": 2.0,
+      "length": 9.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02246",
+    "B006TZFJ8I",
+    {
+      "height": 2.0,
+      "length": 9.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02275",
+    "B01EB2VOHA",
+    {
+      "height": 1.57,
+      "length": 5.7,
+      "width": 1.57,
+      "weight": NaN
+    }
+  ],
+  [
+    "02276",
+    "B01EB2VOHA",
+    {
+      "height": 1.57,
+      "length": 5.7,
+      "width": 1.57,
+      "weight": NaN
+    }
+  ],
+  [
+    "02334",
+    "B01DDSDFTI",
+    {
+      "height": 3.93700787,
+      "length": 5.905511805,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "02335",
+    "B01DDSDFTI",
+    {
+      "height": 3.93700787,
+      "length": 5.905511805,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "02356",
+    "B01EBDYTZ8",
+    {
+      "height": 3.93700787,
+      "length": 8.0314960548,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "02371",
+    "B01DDEOTME",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02372",
+    "B01DDEOTME",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02373",
+    "B01CZ5L6XW",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": 2.1875
+    }
+  ],
+  [
+    "02404",
+    "B01DXAOGIA",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02405",
+    "B01DXAOGIA",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02437",
+    "B01DX1B60U",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02438",
+    "B01DX1B60U",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02497",
+    "B01FUGPH0Q",
+    {
+      "height": 0.5905511805,
+      "length": 7.480314953,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "02505",
+    "B01CHH8W9E",
+    {
+      "height": 2.755905509,
+      "length": 3.93700787,
+      "width": 3.149606296,
+      "weight": NaN
+    }
+  ],
+  [
+    "02505",
+    "B01FM7P65Y",
+    {
+      "height": 3.7,
+      "length": 7.5,
+      "width": 5.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "02506",
+    "B01CHH8W9E",
+    {
+      "height": 2.755905509,
+      "length": 3.93700787,
+      "width": 3.149606296,
+      "weight": NaN
+    }
+  ],
+  [
+    "02506",
+    "B01FM7P65Y",
+    {
+      "height": 3.7,
+      "length": 7.5,
+      "width": 5.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "02524",
+    "B00MWULNNO",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": 1.0
+    }
+  ],
+  [
+    "02557",
+    "B01F3CBKJO",
+    {
+      "height": 4.0,
+      "length": 14.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02557",
+    "B01FOKCJOK",
+    {
+      "height": 4.0,
+      "length": 14.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02559",
+    "B01831KYOE",
+    {
+      "height": 3.5,
+      "length": 13.25,
+      "width": 5.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "02559",
+    "B01F2WAOAQ",
+    {
+      "height": 0.1,
+      "length": 15.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02560",
+    "B01831KYOE",
+    {
+      "height": 3.5,
+      "length": 13.25,
+      "width": 5.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "02560",
+    "B01F2WAOAQ",
+    {
+      "height": 0.1,
+      "length": 15.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02618",
+    "1933591218",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "02619",
+    "1933591218",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "02635",
+    "B01AA27Y1A",
+    {
+      "height": 0.787401574,
+      "length": 6.4960629855,
+      "width": 1.574803148,
+      "weight": NaN
+    }
+  ],
+  [
+    "02636",
+    "B01AA27Y1A",
+    {
+      "height": 0.787401574,
+      "length": 6.4960629855,
+      "width": 1.574803148,
+      "weight": NaN
+    }
+  ],
+  [
+    "02651",
+    "B000K6U2MU",
+    {
+      "height": 1.2,
+      "length": 3.6,
+      "width": 1.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "02655",
+    "B01CY9MH82",
+    {
+      "height": 0.2755905509,
+      "length": 6.1417322772,
+      "width": 3.1102362173,
+      "weight": NaN
+    }
+  ],
+  [
+    "02656",
+    "B01CY9MH82",
+    {
+      "height": 0.2755905509,
+      "length": 6.1417322772,
+      "width": 3.1102362173,
+      "weight": NaN
+    }
+  ],
+  [
+    "02666",
+    "B01F8UGBXQ",
+    {
+      "height": 1.2,
+      "length": 5.9,
+      "width": 3.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "02674",
+    "B01ESEFD4Q",
+    {
+      "height": 0.5,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02715",
+    "B01BIDPBCY",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02716",
+    "B01BIDPBCY",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02748",
+    "B01FH2GZNQ",
+    {
+      "height": 1.18,
+      "length": 9.05,
+      "width": 7.08,
+      "weight": NaN
+    }
+  ],
+  [
+    "02749",
+    "B01FH2GZNQ",
+    {
+      "height": 1.18,
+      "length": 9.05,
+      "width": 7.08,
+      "weight": NaN
+    }
+  ],
+  [
+    "02758",
+    "B016UML0AA",
+    {
+      "height": 4.0,
+      "length": 5.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02781",
+    "B01F9EVPIM",
+    {
+      "height": 0.787401574,
+      "length": 8.267716527,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "02781",
+    "B01FGCXKSA",
+    {
+      "height": 0.787401574,
+      "length": 8.267716527,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "02782",
+    "B01BZPFKOO",
+    {
+      "height": 0.9842519675,
+      "length": 6.692913379,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "02783",
+    "B01BZPFKOO",
+    {
+      "height": 0.9842519675,
+      "length": 6.692913379,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "02805",
+    "B01GMIT5H2",
+    {
+      "height": 0.00393700787,
+      "length": 3.93700787,
+      "width": 3.149606296,
+      "weight": NaN
+    }
+  ],
+  [
+    "02873",
+    "B01GSDS1XK",
+    {
+      "height": 0.8,
+      "length": 13.0,
+      "width": 9.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "02914",
+    "B003GDCWFE",
+    {
+      "height": 6.0,
+      "length": 8.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02921",
+    "B01DZK5P9W",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02922",
+    "B01DZK5P9W",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "02935",
+    "B01C5QRRHU",
+    {
+      "height": 2.8,
+      "length": 7.7,
+      "width": 6.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "02935",
+    "B01FAWRFNW",
+    {
+      "height": 1.574803148,
+      "length": 8.661417314,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "02936",
+    "B01C5QRRHU",
+    {
+      "height": 2.8,
+      "length": 7.7,
+      "width": 6.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "02936",
+    "B01FAWRFNW",
+    {
+      "height": 1.574803148,
+      "length": 8.661417314,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "02948",
+    "B01FR8EOWO",
+    {
+      "height": 4.5,
+      "length": 10.0,
+      "width": 4.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "02987",
+    "B01GHRC7H8",
+    {
+      "height": 4.33,
+      "length": 5.52,
+      "width": 5.52,
+      "weight": NaN
+    }
+  ],
+  [
+    "02988",
+    "B01GHRC7H8",
+    {
+      "height": 4.33,
+      "length": 5.52,
+      "width": 5.52,
+      "weight": NaN
+    }
+  ],
+  [
+    "03003",
+    "B01E29B454",
+    {
+      "height": 0.787401574,
+      "length": 7.87401574,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "03004",
+    "B01E29B454",
+    {
+      "height": 0.787401574,
+      "length": 7.87401574,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "03013",
+    "B01C73YYI6",
+    {
+      "height": 1.181102361,
+      "length": 3.543307083,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "03079",
+    "B00BTRPYHM",
+    {
+      "height": 0.1,
+      "length": 1.5,
+      "width": 1.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "03085",
+    "B019O1D3AO",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.574803148,
+      "weight": NaN
+    }
+  ],
+  [
+    "03086",
+    "B019O1D3AO",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.574803148,
+      "weight": NaN
+    }
+  ],
+  [
+    "03120",
+    "B019RPG4ZS",
+    {
+      "height": 0.393700787,
+      "length": 0.393700787,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "03150",
+    "B0116EDNH0",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03185",
+    "B00WXYDZ2G",
+    {
+      "height": 1.0,
+      "length": 11.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03186",
+    "B00WXYDZ2G",
+    {
+      "height": 1.0,
+      "length": 11.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03216",
+    "B01BH5KMPE",
+    {
+      "height": 2.7,
+      "length": 5.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03220",
+    "B0168466X6",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03221",
+    "B0168466X6",
+    {
+      "height": 1.0,
+      "length": 7.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03229",
+    "B01CRI76X6",
+    {
+      "height": 7.0,
+      "length": 9.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03259",
+    "B017MO2RXO",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03260",
+    "B017MO2RXO",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03273",
+    "B01BUHHI1K",
+    {
+      "height": 1.25,
+      "length": 8.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03274",
+    "B01BUHHI1K",
+    {
+      "height": 1.25,
+      "length": 8.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03309",
+    "B01BUKIWO4",
+    {
+      "height": 3.7,
+      "length": 8.0,
+      "width": 3.7,
+      "weight": NaN
+    }
+  ],
+  [
+    "03337",
+    "B016JHQLIC",
+    {
+      "height": 0.5,
+      "length": 4.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03338",
+    "B016JHQLIC",
+    {
+      "height": 0.5,
+      "length": 4.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03359",
+    "B0119GUZCQ",
+    {
+      "height": 6.692913379,
+      "length": 12.204724397,
+      "width": 6.692913379,
+      "weight": NaN
+    }
+  ],
+  [
+    "03360",
+    "B0119GUZCQ",
+    {
+      "height": 6.692913379,
+      "length": 12.204724397,
+      "width": 6.692913379,
+      "weight": NaN
+    }
+  ],
+  [
+    "03374",
+    "B01EVTV5P4",
+    {
+      "height": 2.0,
+      "length": 9.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03375",
+    "B01EVTV5P4",
+    {
+      "height": 2.0,
+      "length": 9.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03430",
+    "B01GZLXH4S",
+    {
+      "height": 2.0,
+      "length": 7.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03467",
+    "B01295TXYC",
+    {
+      "height": 0.75,
+      "length": 5.75,
+      "width": 4.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "03468",
+    "B01295TXYC",
+    {
+      "height": 0.75,
+      "length": 5.75,
+      "width": 4.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "03496",
+    "B01GHQD8D6",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03565",
+    "B014R926EW",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "03566",
+    "B014R926EW",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": 5.0
+    }
+  ],
+  [
+    "03584",
+    "B01E4V7MK6",
+    {
+      "height": 1.0,
+      "length": 18.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03592",
+    "B01G37LZX4",
+    {
+      "height": 2.8,
+      "length": 6.8,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03593",
+    "B01G37LZX4",
+    {
+      "height": 2.8,
+      "length": 6.8,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03643",
+    "B00PO8ZV3O",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03643",
+    "B012MSN73O",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "03689",
+    "B0136ZJLE6",
+    {
+      "height": 0.2,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03712",
+    "B019GQH29U",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.574803148,
+      "weight": NaN
+    }
+  ],
+  [
+    "03713",
+    "B019GQH29U",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.574803148,
+      "weight": NaN
+    }
+  ],
+  [
+    "03796",
+    "B015JJAHZE",
+    {
+      "height": 0.9,
+      "length": 7.3,
+      "width": 4.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "03802",
+    "B01GD0YI4E",
+    {
+      "height": 0.65,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03810",
+    "B01F78GCCY",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03811",
+    "B01F78GCCY",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03904",
+    "B01F98COUQ",
+    {
+      "height": 11.0,
+      "length": 14.0,
+      "width": 13.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03905",
+    "B01F98COUQ",
+    {
+      "height": 11.0,
+      "length": 14.0,
+      "width": 13.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03925",
+    "B011K3GHAM",
+    {
+      "height": 3.149606296,
+      "length": 5.118110231,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "03934",
+    "B008MM4UFE",
+    {
+      "height": 0.25,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "03986",
+    "B01FH2FN1Q",
+    {
+      "height": 7.1,
+      "length": 7.9,
+      "width": 7.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "03987",
+    "B01FH2FN1Q",
+    {
+      "height": 7.1,
+      "length": 7.9,
+      "width": 7.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "04017",
+    "B01ESSM0SY",
+    {
+      "height": 2.755905509,
+      "length": 7.87401574,
+      "width": 6.299212592,
+      "weight": NaN
+    }
+  ],
+  [
+    "04018",
+    "B01ESSM0SY",
+    {
+      "height": 2.755905509,
+      "length": 7.87401574,
+      "width": 6.299212592,
+      "weight": NaN
+    }
+  ],
+  [
+    "04021",
+    "B018X4NVO6",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "04066",
+    "B01AFKUJFU",
+    {
+      "height": 2.9527559025,
+      "length": 4.4488188931,
+      "width": 3.3464566895,
+      "weight": NaN
+    }
+  ],
+  [
+    "04067",
+    "B01AFKUJFU",
+    {
+      "height": 2.9527559025,
+      "length": 4.4488188931,
+      "width": 3.3464566895,
+      "weight": NaN
+    }
+  ],
+  [
+    "04093",
+    "B01ERZP8FA",
+    {
+      "height": 0.75,
+      "length": 12.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04105",
+    "B01GONHBHG",
+    {
+      "height": 0.3,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04116",
+    "B01CBPGD8E",
+    {
+      "height": 5.118110231,
+      "length": 7.87401574,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "04117",
+    "B01CBPGD8E",
+    {
+      "height": 5.118110231,
+      "length": 7.87401574,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "04118",
+    "B01CBPGD8E",
+    {
+      "height": 5.118110231,
+      "length": 7.87401574,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "04119",
+    "B01FZ0WP9I",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "04157",
+    "B01E709TK0",
+    {
+      "height": 1.968503935,
+      "length": 3.93700787,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04158",
+    "B01E709TK0",
+    {
+      "height": 1.968503935,
+      "length": 3.93700787,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04159",
+    "B01E709TK0",
+    {
+      "height": 1.968503935,
+      "length": 3.93700787,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04180",
+    "B01EKLFEVY",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 4.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "04181",
+    "B01EKLFEVY",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 4.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "04189",
+    "B01EV7LFLK",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04190",
+    "B01EV7LFLK",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04227",
+    "B019Z1JH4Y",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04228",
+    "B019Z1JH4Y",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04230",
+    "B01HHVFXP6",
+    {
+      "height": 2.755905509,
+      "length": 7.87401574,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "04235",
+    "B01G7UFATW",
+    {
+      "height": 4.0,
+      "length": 14.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04272",
+    "B016X624X0",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04273",
+    "B016X624X0",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04277",
+    "B017JBGSSK",
+    {
+      "height": 1.0,
+      "length": 10.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04373",
+    "B01FRERK0G",
+    {
+      "height": 1.968503935,
+      "length": 5.905511805,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04424",
+    "B012BRIX8K",
+    {
+      "height": 0.25,
+      "length": 9.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04425",
+    "B012BRIX8K",
+    {
+      "height": 0.25,
+      "length": 9.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04428",
+    "B00YO2HY8Q",
+    {
+      "height": 0.6999999992859999,
+      "length": 8.699999991126,
+      "width": 5.99999999388,
+      "weight": NaN
+    }
+  ],
+  [
+    "04429",
+    "B00YO2HY8Q",
+    {
+      "height": 0.6999999992859999,
+      "length": 8.699999991126,
+      "width": 5.99999999388,
+      "weight": NaN
+    }
+  ],
+  [
+    "04441",
+    "B01EVFYBJK",
+    {
+      "height": 0.5,
+      "length": 5.0,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "04446",
+    "B01EY6J2AO",
+    {
+      "height": 2.362204722,
+      "length": 2.362204722,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "04447",
+    "B01EY6J2AO",
+    {
+      "height": 2.362204722,
+      "length": 2.362204722,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "04533",
+    "B01CAT2I30",
+    {
+      "height": 0.5,
+      "length": 3.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04535",
+    "B01C74WT3M",
+    {
+      "height": 1.181102361,
+      "length": 5.905511805,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04535",
+    "B01G8I4R6U",
+    {
+      "height": 0.393700787,
+      "length": 4.330708657,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04536",
+    "B01C74WT3M",
+    {
+      "height": 1.181102361,
+      "length": 5.905511805,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04536",
+    "B01G8I4R6U",
+    {
+      "height": 0.393700787,
+      "length": 4.330708657,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04602",
+    "B01D51YBP0",
+    {
+      "height": 3.0,
+      "length": 4.5,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04613",
+    "B01DUYA4G2",
+    {
+      "height": 5.0,
+      "length": 10.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04614",
+    "B01DUYA4G2",
+    {
+      "height": 5.0,
+      "length": 10.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04618",
+    "B01BSBEZPK",
+    {
+      "height": 4.0,
+      "length": 9.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04680",
+    "B01EX4UXPU",
+    {
+      "height": 0.9842519675,
+      "length": 5.511811018,
+      "width": 4.1338582635,
+      "weight": NaN
+    }
+  ],
+  [
+    "04687",
+    "B01714EFWG",
+    {
+      "height": 1.6141732267,
+      "length": 6.0236220411,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "04688",
+    "B01714EFWG",
+    {
+      "height": 1.6141732267,
+      "length": 6.0236220411,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "04700",
+    "B01F186UC2",
+    {
+      "height": 0.5,
+      "length": 6.8,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "04701",
+    "B01F186UC2",
+    {
+      "height": 0.5,
+      "length": 6.8,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "04740",
+    "B01EFEPQUU",
+    {
+      "height": 2.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04754",
+    "B01FS7L89G",
+    {
+      "height": 1.57,
+      "length": 6.0,
+      "width": 2.3,
+      "weight": NaN
+    }
+  ],
+  [
+    "04776",
+    "B01FYJ1VAE",
+    {
+      "height": 0.25,
+      "length": 13.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04777",
+    "B01FJA60CW",
+    {
+      "height": 0.15748,
+      "length": 7.874,
+      "width": 0.3937,
+      "weight": NaN
+    }
+  ],
+  [
+    "04777",
+    "B01FYJ1VAE",
+    {
+      "height": 0.25,
+      "length": 13.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04840",
+    "B01HIZZINI",
+    {
+      "height": 0.5,
+      "length": 5.5,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04884",
+    "B01BCUUB32",
+    {
+      "height": 0.25,
+      "length": 13.0,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "04909",
+    "B01GDPOO1G",
+    {
+      "height": 0.9842519675,
+      "length": 8.0708661335,
+      "width": 7.2834645595,
+      "weight": NaN
+    }
+  ],
+  [
+    "04960",
+    "B01FV1EE2M",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "04972",
+    "B01GKUDGF4",
+    {
+      "height": 2.755905509,
+      "length": 13.385826758,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "04997",
+    "B01GGRILMO",
+    {
+      "height": 4.0,
+      "length": 13.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05035",
+    "B01EFJA02O",
+    {
+      "height": 0.393700787,
+      "length": 11.023622036,
+      "width": 6.692913379,
+      "weight": NaN
+    }
+  ],
+  [
+    "05036",
+    "B01EFJA02O",
+    {
+      "height": 0.393700787,
+      "length": 11.023622036,
+      "width": 6.692913379,
+      "weight": NaN
+    }
+  ],
+  [
+    "05043",
+    "B01HC0DE0I",
+    {
+      "height": 2.1,
+      "length": 13.0,
+      "width": 4.2,
+      "weight": NaN
+    }
+  ],
+  [
+    "05072",
+    "B01EULGSIM",
+    {
+      "height": 2.75,
+      "length": 9.0,
+      "width": 6.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "05095",
+    "B01D4Z6S8K",
+    {
+      "height": 2.5,
+      "length": 8.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05096",
+    "B01D4Z6S8K",
+    {
+      "height": 2.5,
+      "length": 8.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05101",
+    "B00YBVC5ZM",
+    {
+      "height": 0.787401574,
+      "length": 5.511811018,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "05254",
+    "B00YQNVIXU",
+    {
+      "height": 2.0,
+      "length": 11.0,
+      "width": 8.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "05285",
+    "B01AMJFGWU",
+    {
+      "height": 0.1,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05356",
+    "B002PE7JQW",
+    {
+      "height": 2.15,
+      "length": 9.5,
+      "width": 4.75,
+      "weight": NaN
+    }
+  ],
+  [
+    "05357",
+    "B002PE7JQW",
+    {
+      "height": 2.15,
+      "length": 9.5,
+      "width": 4.75,
+      "weight": NaN
+    }
+  ],
+  [
+    "05377",
+    "B01F73DZ1K",
+    {
+      "height": 0.393700787,
+      "length": 5.511811018,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "05378",
+    "B01F73DZ1K",
+    {
+      "height": 0.393700787,
+      "length": 5.511811018,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "05379",
+    "B01F73DZ1K",
+    {
+      "height": 0.393700787,
+      "length": 5.511811018,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "05386",
+    "B019NJSZ14",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05387",
+    "B019NJSZ14",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05400",
+    "B01CL6U5W8",
+    {
+      "height": 0.393700787,
+      "length": 14.173228332,
+      "width": 7.87401574,
+      "weight": NaN
+    }
+  ],
+  [
+    "05401",
+    "B01CL6U5W8",
+    {
+      "height": 0.393700787,
+      "length": 14.173228332,
+      "width": 7.87401574,
+      "weight": NaN
+    }
+  ],
+  [
+    "05418",
+    "B01E3OTM5W",
+    {
+      "height": 0.1,
+      "length": 0.1,
+      "width": 0.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "05424",
+    "B01AO9TSP4",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "05505",
+    "B01EC5Z98G",
+    {
+      "height": 0.0393700787,
+      "length": 3.543307083,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "05506",
+    "B01EC5Z98G",
+    {
+      "height": 0.0393700787,
+      "length": 3.543307083,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "05570",
+    "B018JA1M0E",
+    {
+      "height": 1.0,
+      "length": 9.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05599",
+    "B014T96WBI",
+    {
+      "height": 3.0,
+      "length": 12.5,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05600",
+    "B014T96WBI",
+    {
+      "height": 3.0,
+      "length": 12.5,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05601",
+    "B014T96WBI",
+    {
+      "height": 3.0,
+      "length": 12.5,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05625",
+    "B00XLVBL4O",
+    {
+      "height": 4.5,
+      "length": 8.25,
+      "width": 4.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "05626",
+    "B00XLVBL4O",
+    {
+      "height": 4.5,
+      "length": 8.25,
+      "width": 4.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "05628",
+    "B01FS4G8R6",
+    {
+      "height": 1.181102361,
+      "length": 3.93700787,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "05775",
+    "B01DT3YOQK",
+    {
+      "height": 0.1968503935,
+      "length": 7.87401574,
+      "width": 2.9527559025,
+      "weight": NaN
+    }
+  ],
+  [
+    "05776",
+    "B01DT3YOQK",
+    {
+      "height": 0.1968503935,
+      "length": 7.87401574,
+      "width": 2.9527559025,
+      "weight": NaN
+    }
+  ],
+  [
+    "05795",
+    "B01F4PLBDU",
+    {
+      "height": 0.787401574,
+      "length": 10.629921249,
+      "width": 7.87401574,
+      "weight": NaN
+    }
+  ],
+  [
+    "05796",
+    "B01F4PLBDU",
+    {
+      "height": 0.787401574,
+      "length": 10.629921249,
+      "width": 7.87401574,
+      "weight": NaN
+    }
+  ],
+  [
+    "05797",
+    "B016X62QPQ",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05798",
+    "B016X62QPQ",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05799",
+    "B01DMVUMKG",
+    {
+      "height": 2.0,
+      "length": 4.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05800",
+    "B01DMVUMKG",
+    {
+      "height": 2.0,
+      "length": 4.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "05860",
+    "B011QDBKG2",
+    {
+      "height": 0.1968503935,
+      "length": 4.9212598375,
+      "width": 3.3464566895,
+      "weight": NaN
+    }
+  ],
+  [
+    "05861",
+    "B011QDBKG2",
+    {
+      "height": 0.1968503935,
+      "length": 4.9212598375,
+      "width": 3.3464566895,
+      "weight": NaN
+    }
+  ],
+  [
+    "05903",
+    "B019YRRQX8",
+    {
+      "height": 3.0708661386,
+      "length": 8.267716527,
+      "width": 5.118110231,
+      "weight": NaN
+    }
+  ],
+  [
+    "05904",
+    "B019YRRQX8",
+    {
+      "height": 3.0708661386,
+      "length": 8.267716527,
+      "width": 5.118110231,
+      "weight": NaN
+    }
+  ],
+  [
+    "05920",
+    "B01CWFY5ME",
+    {
+      "height": 2.0,
+      "length": 2.75,
+      "width": 2.75,
+      "weight": NaN
+    }
+  ],
+  [
+    "05927",
+    "B00UJ98IHY",
+    {
+      "height": 0.4330708657,
+      "length": 6.8897637725,
+      "width": 1.3779527545,
+      "weight": NaN
+    }
+  ],
+  [
+    "05928",
+    "B00UJ98IHY",
+    {
+      "height": 0.4330708657,
+      "length": 6.8897637725,
+      "width": 1.3779527545,
+      "weight": NaN
+    }
+  ],
+  [
+    "05942",
+    "B01GZIMP7G",
+    {
+      "height": 1.181102361,
+      "length": 7.87401574,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "05951",
+    "B0015T95VK",
+    {
+      "height": 2.0,
+      "length": 5.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06001",
+    "B01DNO10IA",
+    {
+      "height": 0.47,
+      "length": 7.48,
+      "width": 4.92,
+      "weight": NaN
+    }
+  ],
+  [
+    "06002",
+    "B01BEKU0J0",
+    {
+      "height": 3.0,
+      "length": 27.0,
+      "width": 26.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06003",
+    "B01BEKU0J0",
+    {
+      "height": 3.0,
+      "length": 27.0,
+      "width": 26.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06020",
+    "B013W36P32",
+    {
+      "height": 0.5,
+      "length": 9.5,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06021",
+    "B013W36P32",
+    {
+      "height": 0.5,
+      "length": 9.5,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06044",
+    "B0144MB3NM",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06044",
+    "B014WFW4BQ",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06045",
+    "B0144MB3NM",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06045",
+    "B014WFW4BQ",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06145",
+    "B01GSB6ZF8",
+    {
+      "height": 2.0,
+      "length": 7.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06151",
+    "B018JYH8FS",
+    {
+      "height": 0.393700787,
+      "length": 1.181102361,
+      "width": 0.787401574,
+      "weight": NaN
+    }
+  ],
+  [
+    "06160",
+    "B01HPQTFZM",
+    {
+      "height": 2.362204722,
+      "length": 6.5354330642,
+      "width": 4.9212598375,
+      "weight": NaN
+    }
+  ],
+  [
+    "06166",
+    "B01G6PENQ4",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06226",
+    "B01C8E3X40",
+    {
+      "height": 7.0,
+      "length": 7.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06227",
+    "B01C8E3X40",
+    {
+      "height": 7.0,
+      "length": 7.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06228",
+    "B01C8E3X40",
+    {
+      "height": 7.0,
+      "length": 7.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06249",
+    "B01DOIAFD6",
+    {
+      "height": 4.0,
+      "length": 7.5,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06278",
+    "B01FRERK0G",
+    {
+      "height": 1.968503935,
+      "length": 5.905511805,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "06306",
+    "B004JP8PBS",
+    {
+      "height": 4.38,
+      "length": 11.25,
+      "width": 8.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "06307",
+    "B004JP8PBS",
+    {
+      "height": 4.38,
+      "length": 11.25,
+      "width": 8.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "06322",
+    "B01C5S0YCS",
+    {
+      "height": 0.1,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06323",
+    "B01C5S0YCS",
+    {
+      "height": 0.1,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06358",
+    "B015MC94AW",
+    {
+      "height": 1.2,
+      "length": 4.3,
+      "width": 4.3,
+      "weight": NaN
+    }
+  ],
+  [
+    "06359",
+    "B015MC94AW",
+    {
+      "height": 1.2,
+      "length": 4.3,
+      "width": 4.3,
+      "weight": NaN
+    }
+  ],
+  [
+    "06374",
+    "B01BBQN7R4",
+    {
+      "height": 3.0,
+      "length": 4.5,
+      "width": 4.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "06375",
+    "B01BBQN7R4",
+    {
+      "height": 3.0,
+      "length": 4.5,
+      "width": 4.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "06389",
+    "B01GX3OK1W",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06414",
+    "B016MML5XA",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "06415",
+    "B016MML5XA",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "06477",
+    "B01GH828M6",
+    {
+      "height": 0.787401574,
+      "length": 3.543307083,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "06517",
+    "B01A7YYETQ",
+    {
+      "height": 1.0,
+      "length": 5.2,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06518",
+    "B01A7YYETQ",
+    {
+      "height": 1.0,
+      "length": 5.2,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06521",
+    "B01CXHKMNW",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06556",
+    "B01HHWSIIY",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "06589",
+    "B01DW08AAQ",
+    {
+      "height": 2.362204722,
+      "length": 7.086614166,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "06609",
+    "B01DS7QI7U",
+    {
+      "height": 1.5,
+      "length": 7.6,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "06610",
+    "B01DS7QI7U",
+    {
+      "height": 1.5,
+      "length": 7.6,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "06639",
+    "B01FH4UOOU",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "06640",
+    "B01FH4UOOU",
+    {
+      "height": 0.787401574,
+      "length": 3.93700787,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "06643",
+    "B015X122WE",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06644",
+    "B015X122WE",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06646",
+    "B00XMK72JM",
+    {
+      "height": 2.1,
+      "length": 6.6,
+      "width": 4.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "06680",
+    "B00PXWY0VU",
+    {
+      "height": 0.31,
+      "length": 5.51,
+      "width": 2.76,
+      "weight": NaN
+    }
+  ],
+  [
+    "06680",
+    "B018YA1YMU",
+    {
+      "height": 2.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06680",
+    "B01FLJF53G",
+    {
+      "height": 0.9,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06681",
+    "B00PXWY0VU",
+    {
+      "height": 0.31,
+      "length": 5.51,
+      "width": 2.76,
+      "weight": NaN
+    }
+  ],
+  [
+    "06681",
+    "B018YA1YMU",
+    {
+      "height": 2.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06681",
+    "B01FLJF53G",
+    {
+      "height": 0.9,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06740",
+    "B018H84PMK",
+    {
+      "height": 1.0,
+      "length": 9.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06741",
+    "B018H84PMK",
+    {
+      "height": 1.0,
+      "length": 9.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "06762",
+    "B01GZGYCSI",
+    {
+      "height": 0.8,
+      "length": 10.2,
+      "width": 8.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "06816",
+    "B01HHJJIJU",
+    {
+      "height": 2.6,
+      "length": 6.5,
+      "width": 4.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "06825",
+    "B01C5QRRHU",
+    {
+      "height": 2.8,
+      "length": 7.7,
+      "width": 6.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "06826",
+    "B00BCM1BKS",
+    {
+      "height": 1.34,
+      "length": 5.3,
+      "width": 2.13,
+      "weight": NaN
+    }
+  ],
+  [
+    "06827",
+    "B00BCM1BKS",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "06881",
+    "B000VWK17O",
+    {
+      "height": 1.0,
+      "length": 6.5,
+      "width": 4.25,
+      "weight": NaN
+    }
+  ],
+  [
+    "06891",
+    "B01A550X42",
+    {
+      "height": 1.181102361,
+      "length": 10.629921249,
+      "width": 8.661417314,
+      "weight": NaN
+    }
+  ],
+  [
+    "06892",
+    "B01A550X42",
+    {
+      "height": 1.181102361,
+      "length": 10.629921249,
+      "width": 8.661417314,
+      "weight": NaN
+    }
+  ],
+  [
+    "06892",
+    "B01HEKURMY",
+    {
+      "height": 7.5,
+      "length": 12.8,
+      "width": 8.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "06899",
+    "B01FLXL9U0",
+    {
+      "height": 0.0787401574,
+      "length": 3.149606296,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "06900",
+    "B01FLXL9U0",
+    {
+      "height": 0.0787401574,
+      "length": 3.149606296,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "06908",
+    "B014PEYGJC",
+    {
+      "height": 0.7,
+      "length": 6.1,
+      "width": 3.15,
+      "weight": NaN
+    }
+  ],
+  [
+    "06955",
+    "B01EBI1T9W",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 2.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "06972",
+    "B01ECISLWE",
+    {
+      "height": 2.5590551155,
+      "length": 5.511811018,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "07007",
+    "B01DJF0OX0",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "07024",
+    "B01E1D5N80",
+    {
+      "height": 0.7,
+      "length": 12.2,
+      "width": 7.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "07045",
+    "B01BX7YXCE",
+    {
+      "height": 2.0,
+      "length": 7.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07062",
+    "B003ZZYGOS",
+    {
+      "height": 1.5,
+      "length": 5.5,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "07084",
+    "B01AOB3RXG",
+    {
+      "height": 0.1181102361,
+      "length": 3.3464566895,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "07085",
+    "B01AOB3RXG",
+    {
+      "height": 0.1181102361,
+      "length": 3.3464566895,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "07116",
+    "B01G00MBC8",
+    {
+      "height": 0.9842519675,
+      "length": 2.755905509,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "07188",
+    "B01DF4M2PI",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07188",
+    "B01FLVIYD2",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07188",
+    "B01FVJG4CM",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07189",
+    "B01DF4M2PI",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07189",
+    "B01FLVIYD2",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07189",
+    "B01FVJG4CM",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07196",
+    "B01DC2ARVE",
+    {
+      "height": 0.393700787,
+      "length": 6.299212592,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "07197",
+    "B01DC2ARVE",
+    {
+      "height": 0.393700787,
+      "length": 6.299212592,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "07218",
+    "B01H6XLNQ8",
+    {
+      "height": 1.0,
+      "length": 3.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07220",
+    "B01FSGBQGC",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07221",
+    "B01FSGBQGC",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07228",
+    "B01G8KZUMI",
+    {
+      "height": 1.38,
+      "length": 6.69,
+      "width": 3.15,
+      "weight": NaN
+    }
+  ],
+  [
+    "07282",
+    "B01ACJ0U9O",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07310",
+    "B0116LPAYC",
+    {
+      "height": 2.0,
+      "length": 15.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07338",
+    "B01AYB1SI2",
+    {
+      "height": 0.5905511805,
+      "length": 9.055118101,
+      "width": 6.299212592,
+      "weight": NaN
+    }
+  ],
+  [
+    "07339",
+    "B01AYB1SI2",
+    {
+      "height": 0.5905511805,
+      "length": 9.055118101,
+      "width": 6.299212592,
+      "weight": NaN
+    }
+  ],
+  [
+    "07343",
+    "B01DEJZCO2",
+    {
+      "height": 0.1,
+      "length": 15.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07344",
+    "B01DEJZCO2",
+    {
+      "height": 0.1,
+      "length": 15.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07388",
+    "B018KUZK7O",
+    {
+      "height": 2.0,
+      "length": 3.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07420",
+    "B01GOQWP6U",
+    {
+      "height": 0.5,
+      "length": 4.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07447",
+    "B0192M7EXM",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07470",
+    "B01GV6OUA2",
+    {
+      "height": 2.1653543285,
+      "length": 4.9606299162,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "07486",
+    "B01FRAX6SU",
+    {
+      "height": 0.5905511805,
+      "length": 8.267716527,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "07521",
+    "B019OLOBLE",
+    {
+      "height": 0.5,
+      "length": 12.2,
+      "width": 7.8,
+      "weight": NaN
+    }
+  ],
+  [
+    "07557",
+    "B0189QSGTS",
+    {
+      "height": 1.0,
+      "length": 10.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07571",
+    "B01F09DLBU",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.2,
+      "weight": NaN
+    }
+  ],
+  [
+    "07572",
+    "B01F09DLBU",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.2,
+      "weight": NaN
+    }
+  ],
+  [
+    "07620",
+    "B01EIHW2OW",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "07621",
+    "B01EIHW2OW",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "07622",
+    "B01EIHW2OW",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "07647",
+    "B01FSKPK10",
+    {
+      "height": 1.968503935,
+      "length": 15.354330693,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "07669",
+    "B01FYLTDFC",
+    {
+      "height": 0.25,
+      "length": 13.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07670",
+    "B01FYLTDFC",
+    {
+      "height": 0.25,
+      "length": 13.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07678",
+    "B01B8SX3W4",
+    {
+      "height": 0.2,
+      "length": 5.0,
+      "width": 0.3,
+      "weight": NaN
+    }
+  ],
+  [
+    "07710",
+    "B01DBES0YO",
+    {
+      "height": 0.1574803148,
+      "length": 9.6456692815,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "07711",
+    "B01DBES0YO",
+    {
+      "height": 0.1574803148,
+      "length": 9.6456692815,
+      "width": 2.362204722,
+      "weight": NaN
+    }
+  ],
+  [
+    "07736",
+    "B01CHZAAS2",
+    {
+      "height": 2.362204722,
+      "length": 8.661417314,
+      "width": 6.299212592,
+      "weight": NaN
+    }
+  ],
+  [
+    "07740",
+    "B01HB5XOCC",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "07741",
+    "B01HB5XOCC",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "07743",
+    "B01E5WFM4C",
+    {
+      "height": 0.9055118101,
+      "length": 7.87401574,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "07744",
+    "B01E5WFM4C",
+    {
+      "height": 0.9055118101,
+      "length": 7.87401574,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "07766",
+    "B01DF4RKLY",
+    {
+      "height": 0.9842519675,
+      "length": 3.7401574765,
+      "width": 3.7401574765,
+      "weight": NaN
+    }
+  ],
+  [
+    "07793",
+    "B01H3EZPMS",
+    {
+      "height": 4.0,
+      "length": 5.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07793",
+    "B01H6ZNVQQ",
+    {
+      "height": 1.3779527545,
+      "length": 4.1338582635,
+      "width": 1.7716535415,
+      "weight": NaN
+    }
+  ],
+  [
+    "07840",
+    "B01HH3XPZ4",
+    {
+      "height": 1.2,
+      "length": 5.9,
+      "width": 3.2,
+      "weight": NaN
+    }
+  ],
+  [
+    "07847",
+    "B01DBNMLV8",
+    {
+      "height": 0.7,
+      "length": 7.88,
+      "width": 4.6,
+      "weight": NaN
+    }
+  ],
+  [
+    "07868",
+    "B0153VWJF4",
+    {
+      "height": 0.787401574,
+      "length": 7.87401574,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "07886",
+    "B01GKF28ZI",
+    {
+      "height": 4.0,
+      "length": 10.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07887",
+    "B01GKF28ZI",
+    {
+      "height": 4.0,
+      "length": 10.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "07919",
+    "B01DC3YSWM",
+    {
+      "height": 0.393700787,
+      "length": 6.299212592,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "07920",
+    "B01DC3YSWM",
+    {
+      "height": 0.393700787,
+      "length": 6.299212592,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "07952",
+    "B01H71ESBG",
+    {
+      "height": 0.5,
+      "length": 6.4,
+      "width": 3.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "08004",
+    "B01DF14ZCO",
+    {
+      "height": 1.0236220462,
+      "length": 5.7086614115,
+      "width": 4.5275590505,
+      "weight": NaN
+    }
+  ],
+  [
+    "08005",
+    "B01CZDTRBW",
+    {
+      "height": 1.4,
+      "length": 11.7,
+      "width": 7.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "08007",
+    "B00HPR3M4M",
+    {
+      "height": 0.787401574,
+      "length": 6.299212592,
+      "width": 4.330708657,
+      "weight": NaN
+    }
+  ],
+  [
+    "08008",
+    "B00HPR3M4M",
+    {
+      "height": 0.787401574,
+      "length": 6.299212592,
+      "width": 4.330708657,
+      "weight": NaN
+    }
+  ],
+  [
+    "08035",
+    "B019INEIES",
+    {
+      "height": 4.0,
+      "length": 4.8,
+      "width": 4.8,
+      "weight": NaN
+    }
+  ],
+  [
+    "08036",
+    "B019INEIES",
+    {
+      "height": 4.0,
+      "length": 4.8,
+      "width": 4.8,
+      "weight": NaN
+    }
+  ],
+  [
+    "08039",
+    "B01G2UQ5PA",
+    {
+      "height": 1.0,
+      "length": 15.0,
+      "width": 14.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08040",
+    "B01G2UQ5PA",
+    {
+      "height": 1.0,
+      "length": 15.0,
+      "width": 14.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08082",
+    "B01BHE3EAU",
+    {
+      "height": 1.0,
+      "length": 8.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08084",
+    "B008862V3M",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": 0.29
+    }
+  ],
+  [
+    "08090",
+    "B00RFOEXVQ",
+    {
+      "height": 0.2755905509,
+      "length": 3.93700787,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "08090",
+    "B00VMCQQ94",
+    {
+      "height": 0.393700787,
+      "length": 0.393700787,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "08091",
+    "B00RFOEXVQ",
+    {
+      "height": 0.2755905509,
+      "length": 3.93700787,
+      "width": 2.755905509,
+      "weight": NaN
+    }
+  ],
+  [
+    "08091",
+    "B00VMCQQ94",
+    {
+      "height": 0.393700787,
+      "length": 0.393700787,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "08098",
+    "B00TNBK0NY",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08099",
+    "B00TNBK0NY",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08108",
+    "B01D3XKQ4K",
+    {
+      "height": 1.0,
+      "length": 2.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08116",
+    "B01E11ULHU",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08158",
+    "B01FH2UYMY",
+    {
+      "height": 7.1,
+      "length": 7.9,
+      "width": 7.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "08168",
+    "B01CZMRYY0",
+    {
+      "height": 0.787401574,
+      "length": 3.543307083,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "08169",
+    "B01CZMRYY0",
+    {
+      "height": 0.787401574,
+      "length": 3.543307083,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "08173",
+    "B01GJJIFWA",
+    {
+      "height": 0.4,
+      "length": 5.9,
+      "width": 3.2,
+      "weight": NaN
+    }
+  ],
+  [
+    "08190",
+    "B01C4Z8DTI",
+    {
+      "height": 1.0,
+      "length": 14.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08211",
+    "B009KB1QQM",
+    {
+      "height": 0.6692913379,
+      "length": 3.93700787,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "08212",
+    "B009KB1QQM",
+    {
+      "height": 0.6692913379,
+      "length": 3.93700787,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "08220",
+    "B01DA3NE38",
+    {
+      "height": 1.18,
+      "length": 6.69,
+      "width": 4.72,
+      "weight": NaN
+    }
+  ],
+  [
+    "08228",
+    "B0192BO1RK",
+    {
+      "height": 0.5,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08228",
+    "B01FS35K44",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08229",
+    "B0192BO1RK",
+    {
+      "height": 0.5,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08229",
+    "B01FS35K44",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08269",
+    "B008C9JT0I",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08269",
+    "B01F79N5XM",
+    {
+      "height": 1.968503935,
+      "length": 6.299212592,
+      "width": 6.299212592,
+      "weight": NaN
+    }
+  ],
+  [
+    "08270",
+    "B008C9JT0I",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08276",
+    "B015PL50NU",
+    {
+      "height": 0.6692913379,
+      "length": 5.7086614115,
+      "width": 5.3149606245,
+      "weight": NaN
+    }
+  ],
+  [
+    "08277",
+    "B015PL50NU",
+    {
+      "height": 0.6692913379,
+      "length": 5.7086614115,
+      "width": 5.3149606245,
+      "weight": NaN
+    }
+  ],
+  [
+    "08327",
+    "B00AYPOHMI",
+    {
+      "height": 0.9,
+      "length": 9.0,
+      "width": 4.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "08349",
+    "B01BI8LDLC",
+    {
+      "height": 1.0,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08356",
+    "B00XIGQRUA",
+    {
+      "height": 1.0,
+      "length": 5.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08365",
+    "B01FC7P9W4",
+    {
+      "height": 0.1,
+      "length": 8.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08366",
+    "B01FC7P9W4",
+    {
+      "height": 0.1,
+      "length": 8.0,
+      "width": 8.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08367",
+    "6140107024",
+    {
+      "height": 1.181102361,
+      "length": 8.267716527,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "08368",
+    "6140107024",
+    {
+      "height": 1.181102361,
+      "length": 8.267716527,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "08373",
+    "B01FVYWNWW",
+    {
+      "height": 0.5905511805,
+      "length": 6.8897637725,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "08379",
+    "B0196PO730",
+    {
+      "height": 0.393700787,
+      "length": 8.267716527,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "08406",
+    "B01HG2A126",
+    {
+      "height": 0.3,
+      "length": 6.3,
+      "width": 3.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "08441",
+    "B01G8KO8ZI",
+    {
+      "height": 3.93700787,
+      "length": 8.267716527,
+      "width": 7.87401574,
+      "weight": NaN
+    }
+  ],
+  [
+    "08525",
+    "B01H5NBNH8",
+    {
+      "height": 0.393700787,
+      "length": 3.3858267682,
+      "width": 2.0472440924,
+      "weight": NaN
+    }
+  ],
+  [
+    "08556",
+    "B017L62YY0",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08571",
+    "B01DIUMUT2",
+    {
+      "height": 1.9,
+      "length": 7.1,
+      "width": 1.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "08572",
+    "B01DIUMUT2",
+    {
+      "height": 1.9,
+      "length": 7.1,
+      "width": 1.9,
+      "weight": NaN
+    }
+  ],
+  [
+    "08575",
+    "B01BE3OR9Q",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08576",
+    "B01BE3OR9Q",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08638",
+    "B01A1RCD4C",
+    {
+      "height": 0.9842519675,
+      "length": 7.87401574,
+      "width": 5.118110231,
+      "weight": NaN
+    }
+  ],
+  [
+    "08639",
+    "B01A1RCD4C",
+    {
+      "height": 0.9842519675,
+      "length": 7.87401574,
+      "width": 5.118110231,
+      "weight": NaN
+    }
+  ],
+  [
+    "08641",
+    "B002XPP7NU",
+    {
+      "height": 0.5,
+      "length": 11.2,
+      "width": 8.8,
+      "weight": NaN
+    }
+  ],
+  [
+    "08642",
+    "B002XPP7NU",
+    {
+      "height": 0.5,
+      "length": 11.2,
+      "width": 8.8,
+      "weight": NaN
+    }
+  ],
+  [
+    "08643",
+    "B01E51RSN6",
+    {
+      "height": 3.149606296,
+      "length": 9.055118101,
+      "width": 7.480314953,
+      "weight": NaN
+    }
+  ],
+  [
+    "08644",
+    "B01E51RSN6",
+    {
+      "height": 3.149606296,
+      "length": 9.055118101,
+      "width": 7.480314953,
+      "weight": NaN
+    }
+  ],
+  [
+    "08672",
+    "B01CRWECH0",
+    {
+      "height": 1.968503935,
+      "length": 7.086614166,
+      "width": 2.1653543285,
+      "weight": NaN
+    }
+  ],
+  [
+    "08680",
+    "B01DDL690C",
+    {
+      "height": 0.03937,
+      "length": 3.937,
+      "width": 3.937,
+      "weight": NaN
+    }
+  ],
+  [
+    "08681",
+    "B01DDL690C",
+    {
+      "height": 0.03937,
+      "length": 3.937,
+      "width": 3.937,
+      "weight": NaN
+    }
+  ],
+  [
+    "08699",
+    "B01FNP9Y30",
+    {
+      "height": 0.393700787,
+      "length": 5.905511805,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "08700",
+    "B01FNP9Y30",
+    {
+      "height": 0.393700787,
+      "length": 5.905511805,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "08710",
+    "B00HERBV0U",
+    {
+      "height": 0.393700787,
+      "length": 0.393700787,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "08736",
+    "B00G3N2GH8",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08736",
+    "B01GT0I416",
+    {
+      "height": 4.0,
+      "length": 6.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08737",
+    "B00G3N2GH8",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08769",
+    "B01CQTXZQS",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08770",
+    "B01CQTXZQS",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "08809",
+    "B01F54G0JK",
+    {
+      "height": 0.393700787,
+      "length": 0.393700787,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "08809",
+    "B01H0E01DE",
+    {
+      "height": 3.4,
+      "length": 4.5,
+      "width": 3.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "08810",
+    "B01F54G0JK",
+    {
+      "height": 0.393700787,
+      "length": 0.393700787,
+      "width": 0.393700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "08810",
+    "B01H0E01DE",
+    {
+      "height": 3.4,
+      "length": 4.5,
+      "width": 3.4,
+      "weight": NaN
+    }
+  ],
+  [
+    "08873",
+    "B01E6NWV8K",
+    {
+      "height": 1.57,
+      "length": 7.48,
+      "width": 1.96,
+      "weight": NaN
+    }
+  ],
+  [
+    "08924",
+    "B01FDLAR7Q",
+    {
+      "height": 2.8,
+      "length": 8.4,
+      "width": 3.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "08935",
+    "B01EXYXM94",
+    {
+      "height": 2.5590551155,
+      "length": 9.842519675,
+      "width": 5.118110231,
+      "weight": NaN
+    }
+  ],
+  [
+    "08962",
+    "B01F73EWXA",
+    {
+      "height": 1.0,
+      "length": 1.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08995",
+    "B0136ZJPJW",
+    {
+      "height": 0.2,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "08996",
+    "B0136ZJPJW",
+    {
+      "height": 0.2,
+      "length": 12.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09006",
+    "B01BE56UCQ",
+    {
+      "height": 1.0,
+      "length": 2.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09007",
+    "B01BE56UCQ",
+    {
+      "height": 1.0,
+      "length": 2.0,
+      "width": 1.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09018",
+    "B01HGTQSCG",
+    {
+      "height": 1.968503935,
+      "length": 4.724409444,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "09024",
+    "B01GQ3E3MK",
+    {
+      "height": 0.787401574,
+      "length": 5.905511805,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "09026",
+    "B01CCJGD16",
+    {
+      "height": 2.6,
+      "length": 5.9,
+      "width": 3.7,
+      "weight": NaN
+    }
+  ],
+  [
+    "09057",
+    "B01FXCBM10",
+    {
+      "height": 2.4,
+      "length": 7.8,
+      "width": 6.3,
+      "weight": NaN
+    }
+  ],
+  [
+    "09079",
+    "B01BUW0PEM",
+    {
+      "height": 1.3779527545,
+      "length": 2.5590551155,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "09080",
+    "B01BUW0PEM",
+    {
+      "height": 1.3779527545,
+      "length": 2.5590551155,
+      "width": 1.968503935,
+      "weight": NaN
+    }
+  ],
+  [
+    "09083",
+    "B01FH2GZNQ",
+    {
+      "height": 1.18,
+      "length": 9.05,
+      "width": 7.08,
+      "weight": NaN
+    }
+  ],
+  [
+    "09096",
+    "B01B37CK60",
+    {
+      "height": 0.5905511805,
+      "length": 9.055118101,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "09096",
+    "B01GRQL8NS",
+    {
+      "height": 0.787401574,
+      "length": 8.661417314,
+      "width": 5.511811018,
+      "weight": NaN
+    }
+  ],
+  [
+    "09133",
+    "B01F2538ZG",
+    {
+      "height": 2.362204722,
+      "length": 6.692913379,
+      "width": 5.905511805,
+      "weight": NaN
+    }
+  ],
+  [
+    "09134",
+    "B01E3QU5AG",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "09135",
+    "B01E3QU5AG",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "09204",
+    "B01F79M812",
+    {
+      "height": 0.5,
+      "length": 2.5,
+      "width": 1.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "09213",
+    "B01GQPQ6V4",
+    {
+      "height": 2.5,
+      "length": 12.0,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09214",
+    "B01GQPQ6V4",
+    {
+      "height": 2.5,
+      "length": 12.0,
+      "width": 12.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09329",
+    "B016997YWW",
+    {
+      "height": 5.0,
+      "length": 10.5,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09330",
+    "B016997YWW",
+    {
+      "height": 5.0,
+      "length": 10.5,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09339",
+    "B01FS34OLY",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "09340",
+    "B01FS34OLY",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "09341",
+    "B00SK9OI5G",
+    {
+      "height": 1.0,
+      "length": 10.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09342",
+    "B00SK9OI5G",
+    {
+      "height": 1.0,
+      "length": 10.0,
+      "width": 10.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09346",
+    "B01D8I6SU6",
+    {
+      "height": 0.1968503935,
+      "length": 5.7086614115,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "09346",
+    "B01GJYAWOE",
+    {
+      "height": 0.6,
+      "length": 3.7,
+      "width": 2.2,
+      "weight": NaN
+    }
+  ],
+  [
+    "09363",
+    "B01H0J00O4",
+    {
+      "height": 1.0,
+      "length": 15.0,
+      "width": 9.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09436",
+    "B01GGN87E0",
+    {
+      "height": 7.0,
+      "length": 12.0,
+      "width": 7.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09445",
+    "B01FEWG1RY",
+    {
+      "height": 0.5905511805,
+      "length": 5.905511805,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "09514",
+    "B01EH9D2DG",
+    {
+      "height": 3.0,
+      "length": 3.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09515",
+    "B01EH9D2DG",
+    {
+      "height": 3.0,
+      "length": 3.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09524",
+    "B01D8D6W1G",
+    {
+      "height": 1.181102361,
+      "length": 8.267716527,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "09533",
+    "B00TAA2RP2",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "09534",
+    "B00TAA2RP2",
+    {
+      "height": NaN,
+      "length": NaN,
+      "width": NaN,
+      "weight": NaN
+    }
+  ],
+  [
+    "09535",
+    "B01DZ0GA78",
+    {
+      "height": 2.362204722,
+      "length": 8.661417314,
+      "width": 4.724409444,
+      "weight": NaN
+    }
+  ],
+  [
+    "09582",
+    "B01FRSWQ6K",
+    {
+      "height": 0.393700787,
+      "length": 5.905511805,
+      "width": 0.787401574,
+      "weight": NaN
+    }
+  ],
+  [
+    "09585",
+    "B01EX4UXPU",
+    {
+      "height": 0.9842519675,
+      "length": 5.511811018,
+      "width": 4.1338582635,
+      "weight": NaN
+    }
+  ],
+  [
+    "09586",
+    "B01EX4UXPU",
+    {
+      "height": 0.9842519675,
+      "length": 5.511811018,
+      "width": 4.1338582635,
+      "weight": NaN
+    }
+  ],
+  [
+    "09608",
+    "B01G4A025M",
+    {
+      "height": 0.7,
+      "length": 6.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09609",
+    "B01G4A025M",
+    {
+      "height": 0.7,
+      "length": 6.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09610",
+    "B01G4A025M",
+    {
+      "height": 0.7,
+      "length": 6.0,
+      "width": 3.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09643",
+    "B00D63W53I",
+    {
+      "height": 1.5,
+      "length": 12.0,
+      "width": 2.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "09644",
+    "B00D63W53I",
+    {
+      "height": 1.5,
+      "length": 12.0,
+      "width": 2.5,
+      "weight": NaN
+    }
+  ],
+  [
+    "09656",
+    "B009CA0IZ6",
+    {
+      "height": 2.0,
+      "length": 5.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09657",
+    "B009CA0IZ6",
+    {
+      "height": 2.0,
+      "length": 5.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09668",
+    "B00LN0D7R4",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09678",
+    "B01FTXXPT0",
+    {
+      "height": 2.5590551155,
+      "length": 10.236220462,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "09679",
+    "B01FTXXPT0",
+    {
+      "height": 2.5590551155,
+      "length": 10.236220462,
+      "width": 3.93700787,
+      "weight": NaN
+    }
+  ],
+  [
+    "09687",
+    "B01ELXBVFO",
+    {
+      "height": 0.25,
+      "length": 12.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09688",
+    "B01ELXBVFO",
+    {
+      "height": 0.25,
+      "length": 12.0,
+      "width": 11.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09689",
+    "B01EWS7T86",
+    {
+      "height": 2.0,
+      "length": 5.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09690",
+    "B01EWS7T86",
+    {
+      "height": 2.0,
+      "length": 5.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09697",
+    "B00U7UTKPO",
+    {
+      "height": 2.0,
+      "length": 6.0,
+      "width": 6.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09738",
+    "B013KIT27A",
+    {
+      "height": 1.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09764",
+    "B01DE9ICRG",
+    {
+      "height": 3.0,
+      "length": 7.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09770",
+    "B01DU97VTU",
+    {
+      "height": 1.7,
+      "length": 10.0,
+      "width": 5.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09792",
+    "B008HKL6L2",
+    {
+      "height": 2.0,
+      "length": 4.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09805",
+    "B01C3Y83GI",
+    {
+      "height": 0.1,
+      "length": 0.1,
+      "width": 0.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "09812",
+    "B0192IHHME",
+    {
+      "height": 1.75,
+      "length": 5.25,
+      "width": 3.75,
+      "weight": NaN
+    }
+  ],
+  [
+    "09814",
+    "B019GZDILM",
+    {
+      "height": 0.9842519675,
+      "length": 6.692913379,
+      "width": 4.5275590505,
+      "weight": NaN
+    }
+  ],
+  [
+    "09815",
+    "B019GZDILM",
+    {
+      "height": 0.9842519675,
+      "length": 6.692913379,
+      "width": 4.5275590505,
+      "weight": NaN
+    }
+  ],
+  [
+    "09841",
+    "B01AXL6RZ2",
+    {
+      "height": 2.1653543285,
+      "length": 7.6771653465,
+      "width": 4.330708657,
+      "weight": NaN
+    }
+  ],
+  [
+    "09842",
+    "B01AXL6RZ2",
+    {
+      "height": 2.1653543285,
+      "length": 7.6771653465,
+      "width": 4.330708657,
+      "weight": NaN
+    }
+  ],
+  [
+    "09866",
+    "B01DLMF5OE",
+    {
+      "height": 0.6,
+      "length": 8.25,
+      "width": 6.3,
+      "weight": NaN
+    }
+  ],
+  [
+    "09867",
+    "B01DLMF5OE",
+    {
+      "height": 0.6,
+      "length": 8.25,
+      "width": 6.3,
+      "weight": NaN
+    }
+  ],
+  [
+    "09886",
+    "B01CUIAE32",
+    {
+      "height": 0.6,
+      "length": 7.1,
+      "width": 7.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "09887",
+    "B01CUIAE32",
+    {
+      "height": 0.6,
+      "length": 7.1,
+      "width": 7.1,
+      "weight": NaN
+    }
+  ],
+  [
+    "09899",
+    "B01FU2A6N8",
+    {
+      "height": 4.92,
+      "length": 6.89,
+      "width": 6.89,
+      "weight": NaN
+    }
+  ],
+  [
+    "09900",
+    "B01FU2A6N8",
+    {
+      "height": 4.92,
+      "length": 6.89,
+      "width": 6.89,
+      "weight": NaN
+    }
+  ],
+  [
+    "09965",
+    "B01BERCX6G",
+    {
+      "height": 0.3,
+      "length": 5.0,
+      "width": 2.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09967",
+    "B01AOURPLM",
+    {
+      "height": 0.9842519675,
+      "length": 6.299212592,
+      "width": 3.543307083,
+      "weight": NaN
+    }
+  ],
+  [
+    "09973",
+    "B01FWPEP8K",
+    {
+      "height": 2.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ],
+  [
+    "09974",
+    "B01FWPEP8K",
+    {
+      "height": 2.0,
+      "length": 6.0,
+      "width": 4.0,
+      "weight": NaN
+    }
+  ]
+]

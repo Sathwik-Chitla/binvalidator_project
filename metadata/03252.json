@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013F7GKI": {
+            "asin": "B0013F7GKI",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Diaper Dekor Plus 2-Pack Refill Biodegradable",
+            "normalizedName": "2-Pack Diaper Dekor Plus Refill Biodegradable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}
