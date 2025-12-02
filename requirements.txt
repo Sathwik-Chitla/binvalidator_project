@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 ultralytics==8.3.232
 
 torch==2.2.2
@@ -6,11 +8,10 @@ torchaudio==2.2.2
 
 numpy==1.26.4
 pandas==2.2.1
-scikit-learn==1.3.2       # ← works on Python 3.10
+scikit-learn==1.3.2
 
 Pillow==10.2.0
-opencv-python-headless==4.9.0.80   # ← only headless version
-# REMOVE opencv-python completely
+opencv-python-headless==4.9.0.80
 
 matplotlib==3.8.3
 seaborn==0.13.2
@@ -21,5 +22,7 @@ requests==2.31.0
 
 clip-anytorch==2.6.0
 
-rich==13.9.4               # ← required by Streamlit
+rich==13.9.4
 streamlit==1.31.1
+
+--no-binary opencv-python
