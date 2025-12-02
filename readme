@@ -1,0 +1,246 @@
+📚 1. Project Overview
+
+This project builds an automated Bin Validation System for warehouse operations.
+Given:
+
+A bin image
+
+Corresponding metadata (ASINs, names, quantities, dimensions)
+
+The system performs:
+
+Object Detection – Identify all items in the bin using YOLOv8.
+
+Object Cropping – Extract each detected item.
+
+ASIN Classification – Predict which product (ASIN) each crop belongs to.
+
+Quantity Validation – Compare predicted ASIN counts with metadata.
+
+Mismatch Reporting – Output which products match or mismatch.
+
+This mimics real-world Amazon fulfillment center workflows.
+
+📁 2. Dataset Description
+
+The dataset contains:
+
+10,000+ bin images (bin-images/00001.jpg, …)
+
+10,000+ metadata JSON files
+
+Each JSON has:
+
+{
+  "BIN_FCSKU_DATA": {
+    "ASIN_1": { item attributes },
+    "ASIN_2": { item attributes }
+  },
+  "EXPECTED_QUANTITY": 19
+}
+
+
+Attributes include:
+
+product name
+
+height, length, width, weight
+
+quantity per ASIN
+
+per-bin expected quantity
+
+🧹 3. Data Preprocessing Pipeline
+✔ 3.1 Metadata Parsing
+
+Flatten nested JSON:
+
+one row per (image_id, ASIN)
+
+extract dimensions, weight, quantity
+
+handle missing values with median imputation
+
+A cleaned metadata file is created:
+
+clean_metadata_flat.csv
+
+✔ 3.2 Train / Validation Split
+
+Performed bin-wise, not row-wise:
+
+80% → training
+
+20% → validation
+
+This ensures ASIN items from the same bin do not leak into validation.
+
+✔ 3.3 YOLO Dataset Preparation
+
+Since the dataset provides no bounding boxes, we automatically generate them by:
+
+Running pretrained YOLOv8 to find object boxes
+
+Label every object as class 0 (object)
+
+YOLO dataset structure:
+
+yolo_dataset/
+ ├── images/
+ │    ├── train/
+ │    └── val/
+ └── labels/
+      ├── train/
+      └── val/
+
+✔ 3.4 Crop Extraction
+
+Use YOLO boxes to extract item crops:
+
+saved in crops/train/ and crops/val/
+
+filenames follow convention:
+asinLabel_uuid.jpg
+
+✔ 3.5 Label Encoding
+
+Convert ASINs → integer class IDs for classifier training:
+
+asin → asin_label
+
+
+Encoder stored as:
+
+asin_label_encoder.pkl
+
+🤖 4. Model Architectures
+🟡 4.1 YOLOv8 Detector (Object Detection)
+
+Model: yolov8n.pt (nano version for CPU)
+
+Task: detect all objects in the bin
+
+Output: bounding boxes → used for cropping items
+
+Training command:
+
+model = YOLO("yolov8n.pt")
+model.train(data="yolo_dataset.yaml", epochs=20, batch=4, device="cpu")
+
+
+YOLO YAML:
+
+train: yolo_dataset/images/train
+val: yolo_dataset/images/val
+
+nc: 1
+names: ["object"]
+
+🔵 4.2 ASIN Classifier (Image Classification)
+
+Architecture: ResNet50
+
+Input: item crops (224×224)
+
+Output: predicted ASIN label
+
+Loss: CrossEntropy
+
+Optimizer: Adam
+
+Training loop:
+
+for epoch in range(10):
+    ...
+
+
+Saved model:
+
+asin_classifier.pth
+
+🧪 5. Inference Pipeline
+
+For a new bin image:
+
+Step 1 — Detect items
+
+YOLO produces bounding boxes → (x1, y1, x2, y2)
+
+Step 2 — Crop items
+
+Extract each object image region.
+
+Step 3 — Recognize ASINs
+
+Pass each crop to classifier:
+
+pred = classifier(image_crop).argmax()
+asin = label_encoder.inverse_transform([pred])[0]
+
+Step 4 — Count predictions
+
+Example:
+
+{"B01ABC123": 3, "B02XYZ789": 1}
+
+Step 5 — Compare against metadata
+
+Generate:
+
+MATCH
+
+MISMATCH
+
+MISSING ITEMS
+
+EXTRA ITEMS
+
+📊 6. EDA Summary
+
+Key insights:
+
+~600 missing weights, ~44 missing dimensions (fixed using median).
+
+Multiple ASINs present per bin.
+
+Distribution of quantities is skewed (most bins have 1–5 items).
+
+Dimensions and weight have weak correlation.
+
+Some ASINs are far more frequent.
+
+Visualizations included:
+
+quantity distribution
+
+ASIN frequency
+
+dimension histograms
+
+correlation heatmap
+
+image samples
+
+🧱 7. Project Structure
+binvalidator_project/
+│
+├── bin-images/
+├── metadata/
+├── crops/
+│   ├── train/
+│   ├── val/
+│
+├── yolo_dataset/
+│   ├── images/
+│   ├── labels/
+│
+├── asin_classifier.pth
+├── asin_label_encoder.pkl
+├── yolo_dataset.yaml
+├── clean_metadata_flat.csv
+│
+├── train_yolo.py
+├── train_classifier.py
+├── inference.py
+├── requirements.txt
+└── README.md
