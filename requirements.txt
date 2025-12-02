@@ -2,7 +2,7 @@
 
 # Deep Learning (NOTE: These versions imply a CUDA/GPU environment: cu121)
 # You MUST ensure your Render service has a GPU plan, OR change these to CPU versions.
-python==3.11.14
+
 # --- CRITICAL TOP-LEVEL PACKAGES ---
 
 # Deep Learning (CPU versions - Tightly coupled)
@@ -44,3 +44,4 @@ tqdm>=4.66.2
 clip-anytorch==2.6.0
 GitPython
 rich
+
