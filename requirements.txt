@@ -2,8 +2,8 @@
 
 # Deep Learning (NOTE: These versions imply a CUDA/GPU environment: cu121)
 # You MUST ensure your Render service has a GPU plan, OR change these to CPU versions.
-torch==2.5.1+cu121
-torchvision==0.20.1+cu121
+torch==2.5.1
+torchvision==0.20.1
 
 # Computer Vision / YOLO
 ultralytics==8.3.231
@@ -39,3 +39,4 @@ clip-anytorch==2.6.0
 rich==13.9.4
 gitdb==4.0.12
 GitPython==3.1.45
+
