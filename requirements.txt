@@ -1,12 +1,12 @@
 ultralytics==8.3.232
 
-torch
-torchvision
-torchaudio
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
 
 numpy==1.26.4
 pandas==2.2.1
-scikit-learn==1.4.1
+scikit-learn==1.2.2
 
 Pillow==10.2.0
 opencv-python-headless==4.9.0.80
