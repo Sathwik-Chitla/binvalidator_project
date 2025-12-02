@@ -1,5 +1,23 @@
-import streamlit as st
+# --- FIX FOR STREAMLIT OPENCV PROBLEM ---
 import os
+import sys
+
+# Prevent Streamlit's auto-installed opencv-python (GUI) from loading
+if "cv2" in sys.modules:
+    del sys.modules["cv2"]
+
+# Environment variables to help cv2-headless
+os.environ["OPENCV_VIDEOIO_PRIORITY_MSMF"] = "0"
+os.environ["SDL_AUDIODRIVER"] = "dummy"
+
+# Force OpenCV headless to load
+try:
+    import cv2
+except:
+    pass
+# ----------------------------------------------------
+
+import streamlit as st
 from ultralytics import YOLO
 import torch
 import clip
